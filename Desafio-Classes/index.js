@@ -19,7 +19,7 @@ class hero {
             ataque = "shuriken"
         }
 
-        console.log(`O héroi de nome ${this.nome}, e tipo ${this.tipo} atacou usando ${ataque}`);
+        console.log(`O héroi de nome ${this.nome}, idade ${this.idade} e tipo ${this.tipo} atacou usando ${ataque}`);
     }
 }
 
